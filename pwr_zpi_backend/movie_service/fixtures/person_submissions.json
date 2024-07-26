@@ -1,0 +1,132 @@
+[
+{
+    "model": "movie_service.personsubmission",
+    "pk": 1,
+    "fields": {
+        "country": 1,
+        "name": "Morgan",
+        "surname": "Freeman",
+        "birthdate": "1965-03-22",
+        "details": "Prominent American actor",
+        "photo": "people/Morgan-Freeman.jpg",
+        "person_request": 1
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 2,
+    "fields": {
+        "country": null,
+        "name": "Michael",
+        "surname": "C. Hall",
+        "birthdate": "1971-02-01",
+        "details": "",
+        "photo": "",
+        "person_request": 2
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 3,
+    "fields": {
+        "country": null,
+        "name": "Jack",
+        "surname": "Alcott",
+        "birthdate": "1993-06-17",
+        "details": "",
+        "photo": "",
+        "person_request": 3
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 4,
+    "fields": {
+        "country": null,
+        "name": "Julia",
+        "surname": "Jones",
+        "birthdate": "1981-01-23",
+        "details": "",
+        "photo": "",
+        "person_request": 4
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 5,
+    "fields": {
+        "country": null,
+        "name": "Johnny",
+        "surname": "Sequoyah",
+        "birthdate": "2002-10-25",
+        "details": "",
+        "photo": "",
+        "person_request": 5
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 6,
+    "fields": {
+        "country": null,
+        "name": "Morgan",
+        "surname": "Freeman",
+        "birthdate": "1937-08-01",
+        "details": "Prominent American actor",
+        "photo": "people/Morgan-Freeman.jpg",
+        "person_request": 6
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 7,
+    "fields": {
+        "country": null,
+        "name": "Jennifer",
+        "surname": "Carpenter",
+        "birthdate": "1965-03-22",
+        "details": "",
+        "photo": "",
+        "person_request": 9
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 8,
+    "fields": {
+        "country": 14,
+        "name": "Russel",
+        "surname": "Crowe",
+        "birthdate": "1964-04-07",
+        "details": "Prominent actor from New Zealand",
+        "photo": "",
+        "person_request": 10
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 9,
+    "fields": {
+        "country": null,
+        "name": "Henry",
+        "surname": "Cavill",
+        "birthdate": "1983-05-05",
+        "details": "",
+        "photo": "",
+        "person_request": 11
+    }
+},
+{
+    "model": "movie_service.personsubmission",
+    "pk": 10,
+    "fields": {
+        "country": null,
+        "name": "Freya",
+        "surname": "Allan",
+        "birthdate": "2001-09-06",
+        "details": "",
+        "photo": "",
+        "person_request": 12
+    }
+}
+]

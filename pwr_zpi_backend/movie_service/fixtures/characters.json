@@ -1,0 +1,682 @@
+[
+{
+    "model": "movie_service.character",
+    "pk": 1,
+    "fields": {
+        "person": 1,
+        "name": "Driver"
+    }
+},
+    {
+    "model": "movie_service.character",
+    "pk": 2,
+    "fields": {
+        "person": 2,
+        "name": "Irene"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 3,
+    "fields": {
+        "person": 3,
+        "name": "Shannon"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 4,
+    "fields": {
+        "person": 4,
+        "name": "Bernie Rose"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 5,
+    "fields": {
+        "person": 5,
+        "name": "Standard"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 6,
+    "fields": {
+        "person": 6,
+        "name": "Blanche"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 7,
+    "fields": {
+        "person": 7,
+        "name": "Nino"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 8,
+    "fields": {
+        "person": 8,
+        "name": "Tan Suit"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 9,
+    "fields": {
+        "person": 9,
+        "name": "Benicio"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 10,
+    "fields": {
+        "person": 10,
+        "name": "Doc"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 11,
+    "fields": {
+        "person": 14,
+        "name": "Andy Dufresne"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 12,
+    "fields": {
+        "person": 15,
+        "name": "Ellis Boyd 'Red' Redding"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 13,
+    "fields": {
+        "person": 16,
+        "name": "Warden Norton"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 14,
+    "fields": {
+        "person": 17,
+        "name": "Heywood"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 15,
+    "fields": {
+        "person": 18,
+        "name": "Captain Hadley"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 16,
+    "fields": {
+        "person": 19,
+        "name": "Tommy"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 17,
+    "fields": {
+        "person": 20,
+        "name": "Bogs Diamond"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 18,
+    "fields": {
+        "person": 21,
+        "name": "Brooks Hatlen"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 19,
+    "fields": {
+        "person": 22,
+        "name": "1946 D.A."
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 20,
+    "fields": {
+        "person": 23,
+        "name": "Skeet"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 21,
+    "fields": {
+        "person": 26,
+        "name": "Philippe"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 22,
+    "fields": {
+        "person": 27,
+        "name": "Driss"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 23,
+    "fields": {
+        "person": 28,
+        "name": "Yvonne"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 24,
+    "fields": {
+        "person": 29,
+        "name": "Megalie"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 25,
+    "fields": {
+        "person": 30,
+        "name": "La DRH societe de courses"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 26,
+    "fields": {
+        "person":31,
+        "name": "Marcelle"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 27,
+    "fields": {
+        "person": 32,
+        "name": "Elisa"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 28,
+    "fields": {
+        "person": 33,
+        "name": "Adama"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 29,
+    "fields": {
+        "person": 34,
+        "name": "Fatou"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 30,
+    "fields": {
+        "person": 35,
+        "name": "Mina"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 31,
+    "fields": {
+        "person": 39,
+        "name": "Benoit Blanc"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 32,
+    "fields": {
+        "person": 40,
+        "name": "Ransom Drysdale"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 33,
+    "fields": {
+        "person": 41,
+        "name": "Meg Thrombey"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 34,
+    "fields": {
+        "person": 42,
+        "name": "Marta Cabrera"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 35,
+    "fields": {
+        "person": 43,
+        "name": "Linda Drysdale"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 36,
+    "fields": {
+        "person": 44,
+        "name": "Walt Thrombey"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 37,
+    "fields": {
+        "person": 45,
+        "name": "Richard Drysdale"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 38,
+    "fields": {
+        "person": 46,
+        "name": "Joni Thrombey"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 39,
+    "fields": {
+        "person": 47,
+        "name": "Lieutenant Elliott"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 40,
+    "fields": {
+        "person": 48,
+        "name": "Harlan Thrombey"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 41,
+    "fields": {
+        "person": 50,
+        "name": "Rick Deckard"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 42,
+    "fields": {
+        "person": 1,
+        "name": "'K'"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 43,
+    "fields": {
+        "person": 42,
+        "name": "Joi"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 44,
+    "fields": {
+        "person": 51,
+        "name": "Sapper Morton"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 45,
+    "fields": {
+        "person": 52,
+        "name": "Interviewer"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 46,
+    "fields": {
+        "person": 53,
+        "name": "Angry Old Lady"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 47,
+    "fields": {
+        "person": 54,
+        "name": "Nandez"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 48,
+    "fields": {
+        "person": 55,
+        "name": "Coco"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 49,
+    "fields": {
+        "person": 56,
+        "name": "File Clerk"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 50,
+    "fields": {
+        "person": 60,
+        "name": "Lieutenant Joshi"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 51,
+    "fields": {
+        "person": 1,
+        "name": "Holland March"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 52,
+    "fields": {
+        "person": 61,
+        "name": "Jackson Healy"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 53,
+    "fields": {
+        "person": 1,
+        "name": "Jared Vennett"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 54,
+    "fields": {
+        "person": 64,
+        "name": "Michael Burry"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 55,
+    "fields": {
+        "person": 64,
+        "name": "Bruce Wayne"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 56,
+    "fields": {
+        "person": 67,
+        "name": "Joker"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 57,
+    "fields": {
+        "person": 15,
+        "name": "Lucius Fox"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 58,
+    "fields": {
+        "person": 15,
+        "name": "Somerset"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 59,
+    "fields": {
+        "person": 70,
+        "name": "Mills"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 60,
+    "fields": {
+        "person": 73,
+        "name": "Forrest Gump"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 61,
+    "fields": {
+        "person": 60,
+        "name": "Jenny Curran"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 62,
+    "fields": {
+        "person": 76,
+        "name": "Marty McFly"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 63,
+    "fields": {
+        "person": 77,
+        "name": "Dr. Emmett Brown"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 64,
+    "fields": {
+        "person": 79,
+        "name": "Artur Fleck"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 65,
+    "fields": {
+        "person": 80,
+        "name": "Murray Franklin"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 66,
+    "fields": {
+        "person": 83,
+        "name": "Sherlock Holmes"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 67,
+    "fields": {
+        "person": 84,
+        "name": "Dr. John Watson"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 68,
+    "fields": {
+        "person": 85,
+        "name": "Mrs. Hudson"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 69,
+    "fields": {
+        "person": 86,
+        "name": "DI Lestrade"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 70,
+    "fields": {
+        "person": 87,
+        "name": "Molly Hooper"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 71,
+    "fields": {
+        "person": 88,
+        "name": "Mycroft Holmes"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 72,
+    "fields": {
+        "person": 89,
+        "name": "Jim Moriarty"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 73,
+    "fields": {
+        "person": 90,
+        "name": "Mary Watson"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 74,
+    "fields": {
+        "person": 91,
+        "name": "Anderson"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 75,
+    "fields": {
+        "person": 92,
+        "name": "Sgt Sally Donovan"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 76,
+    "fields": {
+        "person": 94,
+        "name": "Valery Legasov"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 77,
+    "fields": {
+        "person": 95,
+        "name": "Boris Shcherbina"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 78,
+    "fields": {
+        "person": 97,
+        "name": "Francis Underwood"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 79,
+    "fields": {
+        "person": 60,
+        "name": "Claire Underwood"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 80,
+    "fields": {
+        "person": 3,
+        "name": "Walter White"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 81,
+    "fields": {
+        "person": 99,
+        "name": "Jesse Pinkman"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 82,
+    "fields": {
+        "person": 101,
+        "name": "Frank Semyon"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 83,
+    "fields": {
+        "person": 102,
+        "name": "Detective Ray Velcoro"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 84,
+    "fields": {
+        "person": 104,
+        "name": "Elliot Alderson"
+    }
+},
+{
+    "model": "movie_service.character",
+    "pk": 85,
+    "fields": {
+        "person": 105,
+        "name": "Mr. Robot"
+    }
+}
+]

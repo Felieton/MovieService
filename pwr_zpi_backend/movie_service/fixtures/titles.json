@@ -1,0 +1,560 @@
+[
+{
+    "model": "movie_service.title",
+    "pk": 1,
+    "fields": {
+        "duration": 100,
+        "title": "Drive",
+        "year": 2011,
+        "plot": "Mysterious stuntsman finds himself in trouble for helping his neighbors",
+        "created": "2021-11-27T17:24:30.020Z",
+        "released": "2011-09-16",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/drive.jpg",
+        "rating": null,
+        "languages": [
+            1, 2
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            1, 2
+        ],
+        "characters": [
+            1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+        ],
+        "cast_members": [
+            1, 2, 3
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 2,
+    "fields": {
+        "duration": 142,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "plot": "Two imprisoned men finding redemption",
+        "created": "2021-11-27T19:34:30.020Z",
+        "released": "1995-04-16",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/shawshank-redemption.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            2
+        ],
+        "characters": [
+            11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+        ],
+        "cast_members": [
+            4, 5
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 3,
+    "fields": {
+        "duration": 112,
+        "title": "Intouchables",
+        "year": 2011,
+        "plot": "Aristocratic, physically impaired man, hires someone as his caregiver",
+        "created": "2021-11-27T21:14:30.020Z",
+        "released": "2012-04-13",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/intouchables.jpg",
+        "rating": null,
+        "languages": [
+            3, 1
+        ],
+        "countries": [
+            5
+        ],
+        "genres": [
+            8, 3, 2
+        ],
+        "characters": [
+            21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+        ],
+        "cast_members": [
+            6, 7, 8
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 4,
+    "fields": {
+        "duration": 130,
+        "title": "Knives Out",
+        "year": 2019,
+        "plot": "A detective investigates the death of a wealthy man",
+        "created": "2021-11-27T21:50:30.020Z",
+        "released": "2019-11-29",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/knives-out.jpg",
+        "rating": null,
+        "languages": [
+            1, 2
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            3, 2, 7
+        ],
+        "characters": [
+            31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+        ],
+        "cast_members": [
+            9
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 5,
+    "fields": {
+        "duration": 164,
+        "title": "Blade Runner 2049",
+        "year": 2017,
+        "plot": "Young Blade Runner 'K' is tracking down former Blade Runner",
+        "created": "2021-11-28T21:52:30.020Z",
+        "released": "2017-10-06",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/blade-runner-2049.jpg",
+        "rating": null,
+        "languages": [
+            1, 2, 8, 10
+        ],
+        "countries": [
+            1, 3, 7, 12
+        ],
+        "genres": [
+            1, 2, 5, 7
+        ],
+        "characters": [
+            41, 42, 43, 44, 45, 46, 47, 48, 49, 50
+        ],
+        "cast_members": [
+            10, 11, 12
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 6,
+    "fields": {
+        "duration": 116,
+        "title": "The Nice Guys",
+        "year": 2016,
+        "plot": "Two private investigators look for a missing girl",
+        "created": "2021-11-28T11:43:30.020Z",
+        "released": "2016-05-20",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/the-nice-guys.jpg",
+        "rating": null,
+        "languages": [
+            1, 4
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            1, 3, 7
+        ],
+        "characters": [
+            51, 52
+        ],
+        "cast_members": [
+            13, 14
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 7,
+    "fields": {
+        "duration": 130,
+        "title": "The Big Short",
+        "year": 2015,
+        "plot": "Group investors bet against the stock market",
+        "created": "2021-11-28T11:55:30.020Z",
+        "released": "2016-01-01",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/the-big-short.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            2, 3
+        ],
+        "characters": [
+            53, 54
+        ],
+        "cast_members": [
+            15, 16
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 8,
+    "fields": {
+        "duration": 130,
+        "title": "The Dark Knight",
+        "year": 2015,
+        "plot": "Batman meets the crazy Joker",
+        "created": "2021-11-28T12:09:30.020Z",
+        "released": "2008-08-08",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/the-dark-knight.jpg",
+        "rating": null,
+        "languages": [
+            1, 7
+        ],
+        "countries": [
+            1, 3
+        ],
+        "genres": [
+            1, 2
+        ],
+        "characters": [
+            55, 56, 57
+        ],
+        "cast_members": [
+            17, 18
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 9,
+    "fields": {
+        "duration": 127,
+        "title": "Se7en",
+        "year": 1995,
+        "plot": "Two detectives hunt a serial killer",
+        "created": "2021-11-28T12:19:30.020Z",
+        "released": "1996-02-14",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/se7en.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            2, 7
+        ],
+        "characters": [
+            58, 59
+        ],
+        "cast_members": [
+            19, 20
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 10,
+    "fields": {
+        "duration": 142,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "plot": "An Alabama man with an IQ of 75 wants to reunite with his childhood sweetheart",
+        "created": "2021-11-28T12:32:30.020Z",
+        "released": "1994-11-04",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/forrest-gump.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            2, 6
+        ],
+        "characters": [
+            60, 61
+        ],
+        "cast_members": [
+            21, 22
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 11,
+    "fields": {
+        "duration": 116,
+        "title": "Back to the Future",
+        "year": 1994,
+        "plot": "A 17-year old student is accidentally sent 30 years into the past",
+        "created": "2021-11-28T12:43:30.020Z",
+        "released": "1986-08-09",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/back-to-the-future.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            3, 6
+        ],
+        "characters": [
+            62, 63
+        ],
+        "cast_members": [
+            23, 24
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 12,
+    "fields": {
+        "duration": 122,
+        "title": "Joker",
+        "year": 2019,
+        "plot": "A comedian is disregarded by a society in the Gotham City",
+        "created": "2021-11-28T13:22:30.020Z",
+        "released": "2019-10-04",
+        "type": "M",
+        "seasons_count": null,
+        "poster": "titles/joker.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            1, 7
+        ],
+        "genres": [
+            2, 7
+        ],
+        "characters": [
+            64, 65
+        ],
+        "cast_members": [
+            25, 26
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 13,
+    "fields": {
+        "duration": 88,
+        "title": "Sherlock",
+        "year": 2010,
+        "plot": "Famous detective solves crimes in a 21th century London",
+        "created": "2021-11-28T13:34:30.020Z",
+        "released": "2010-07-25",
+        "type": "S",
+        "seasons_count": 4,
+        "poster": "titles/sherlock.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            3, 1
+        ],
+        "genres": [
+            2, 7
+        ],
+        "characters": [
+            66, 67, 68, 69, 70, 71, 72, 73, 74, 75
+        ],
+        "cast_members": [
+            27, 28
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 14,
+    "fields": {
+        "duration": 330,
+        "title": "Chernobyl",
+        "year": 2019,
+        "plot": "Explosion of a nuclear power plant in Chernobyl, April 1986",
+        "created": "2021-11-28T16:45:30.020Z",
+        "released": "2019-05-07",
+        "type": "S",
+        "seasons_count": 1,
+        "poster": "titles/chernobyl.jpg",
+        "rating": null,
+        "languages": [
+            1, 10
+        ],
+        "countries": [
+            1, 3
+        ],
+        "genres": [
+            2, 7
+        ],
+        "characters": [
+           76, 77
+        ],
+        "cast_members": [
+            29
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 15,
+    "fields": {
+        "duration": 51,
+        "title": "House of Cards",
+        "year": 2013,
+        "plot": "Congressman works with his wife to make a revenge on people who betrayed him",
+        "created": "2021-11-28T21:45:30.020Z",
+        "released": "2015-04-14",
+        "type": "S",
+        "seasons_count": 1,
+        "poster": "titles/house-of-cards.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            2
+        ],
+        "characters": [
+           78, 79
+        ],
+        "cast_members": [
+            30
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 16,
+    "fields": {
+        "duration": 49,
+        "title": "Breaking Bad",
+        "year": 2008,
+        "plot": "A high school teacher gets to know of his lung cancer",
+        "created": "2021-11-28T22:45:30.020Z",
+        "released": "2008-01-20",
+        "type": "S",
+        "seasons_count": 1,
+        "poster": "titles/breaking-bad.jpg",
+        "rating": null,
+        "languages": [
+            1, 2
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            2, 7
+        ],
+        "characters": [
+           80, 81
+        ],
+        "cast_members": [
+            31
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 17,
+    "fields": {
+        "duration": 55,
+        "title": "True Detective",
+        "year": 2014,
+        "plot": "Police reveal secrets of those involved in investigations",
+        "created": "2021-11-28T22:45:30.020Z",
+        "released": "2014-01-12",
+        "type": "S",
+        "seasons_count": 1,
+        "poster": "titles/true-detective.jpg",
+        "rating": null,
+        "languages": [
+            1
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            2, 7
+        ],
+        "characters": [
+           82, 83
+        ],
+        "cast_members": [
+            32
+        ]
+    }
+},
+    {
+    "model": "movie_service.title",
+    "pk": 18,
+    "fields": {
+        "duration": 49,
+        "title": "Mr. Robot",
+        "year": 2015,
+        "plot": "Unstable gifted cyber-security engineer vs evil corporations",
+        "created": "2021-11-29T22:45:30.020Z",
+        "released": "2016-10-19",
+        "type": "S",
+        "seasons_count": 1,
+        "poster": "titles/mr-robot.jpg",
+        "rating": null,
+        "languages": [
+            1, 2, 3, 4, 5
+        ],
+        "countries": [
+            1
+        ],
+        "genres": [
+            2, 7
+        ],
+        "characters": [
+           84, 85
+        ],
+        "cast_members": [
+            33
+        ]
+    }
+}
+]

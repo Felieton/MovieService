@@ -1,0 +1,434 @@
+[
+{
+    "model": "movie_service.episode",
+    "pk": 1,
+    "fields": {
+        "duration": 88,
+        "name": "Unaired Pilot",
+        "plot": "Dr. Watson becomes friends with Sherlock Holmes and they solve crimes together",
+        "released": "2011-06-05",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 1,
+        "number": 1,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 2,
+    "fields": {
+        "duration": 88,
+        "name": "A study in Pink",
+        "plot": "Dr. Watson return to London, he meets Sherlock Holmes",
+        "released": "2010-07-25",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 1,
+        "number": 2,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 3,
+    "fields": {
+        "duration": 88,
+        "name": "The Blind Banker",
+        "plot": "Sherlock and Watson find mysterious symbols in London",
+        "released": "2010-08-01",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 1,
+        "number": 3,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 4,
+    "fields": {
+        "duration": 88,
+        "name": "The Great Game",
+        "plot": "Sherlock Holmes is engaged in crime-solving spree",
+        "released": "2010-08-08",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 1,
+        "number": 4,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 5,
+    "fields": {
+        "duration": 88,
+        "name": "A Scandal in Belgravia",
+        "plot": "Sherlock is trying to take something from Irene Adler",
+        "released": "2012-06-10",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 2,
+        "number": 1,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 6,
+    "fields": {
+        "duration": 88,
+        "name": "The Hounds of Baskerville",
+        "plot": "Dr. Watson and Sherlock investigate the ghosts of a young man",
+        "released": "2012-06-17",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 2,
+        "number": 2,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 7,
+    "fields": {
+        "duration": 88,
+        "name": "The Reichenbach Fall",
+        "plot": "Jim Moriarty turns the city against Sherlock",
+        "released": "2012-06-24",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 2,
+        "number": 3,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 8,
+    "fields": {
+        "duration": 88,
+        "name": "Many Happy Returns",
+        "plot": "Dr. Watson tries to move on after Sherlock's death",
+        "released": "2014-12-23",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 3,
+        "number": 1,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 9,
+    "fields": {
+        "duration": 88,
+        "name": "The Empty Hearse",
+        "plot": "Mycroft calls Sherlock back to London",
+        "released": "2014-01-12",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 3,
+        "number": 2,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 10,
+    "fields": {
+        "duration": 88,
+        "name": "The Sign of Three",
+        "plot": "Sherlock gives a speech at John's wedding",
+        "released": "2014-01-19",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 3,
+        "number": 3,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 11,
+    "fields": {
+        "duration": 88,
+        "name": "His Last Vow",
+        "plot": "Sherlock meets Charles Augustus Magnussen",
+        "released": "2014-01-12",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 3,
+        "number": 4,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 12,
+    "fields": {
+        "duration": 88,
+        "name": "The Abominable Bride",
+        "plot": "Dr. Wwatson and Sherlock in 1890's London",
+        "released": "2016-01-07",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 4,
+        "number": 1,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 13,
+    "fields": {
+        "duration": 88,
+        "name": "The Six Thatchers",
+        "plot": "Sherlock and six unique head statues",
+        "released": "2017-01-01",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 4,
+        "number": 2,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 14,
+    "fields": {
+        "duration": 88,
+        "name": "The Lying Detective",
+        "plot": "Sherlock Holmes vs Culverton Smith",
+        "released": "2017-01-08",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 4,
+        "number": 3,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 15,
+    "fields": {
+        "duration": 88,
+        "name": "The Final Problem",
+        "plot": "A dark secret in the Holmes family",
+        "released": "2017-01-15",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 4,
+        "number": 4,
+        "rating": null,
+        "title": 13,
+        "characters": [
+            74, 69, 67, 72, 73, 70, 68, 71, 75, 66
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 16,
+    "fields": {
+        "duration": 50,
+        "name": "1:23:45",
+        "plot": "Firefighters try to control the explosion",
+        "released": "2019-05-07",
+        "created": "2021-11-28T21:02:13.815Z",
+        "season": 1,
+        "number": 1,
+        "rating": null,
+        "title": 14,
+        "characters": [
+            76, 77
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 17,
+    "fields": {
+        "duration": 49,
+        "name": "Please Remain Calm",
+        "plot": "Ulana tries to reach Valery and warn him",
+        "released": "2019-05-13",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 1,
+        "number": 2,
+        "rating": null,
+        "title": 14,
+        "characters": [
+            76, 77
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 18,
+    "fields": {
+        "duration": 50,
+        "name": "Chapter 1",
+        "plot": "Francis Underwood declined for the chair for Secretary State",
+        "released": "2015-04-14",
+        "created": "2021-11-28T21:02:13.815Z",
+        "season": 1,
+        "number": 1,
+        "rating": null,
+        "title": 15,
+        "characters": [
+            78, 79
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 19,
+    "fields": {
+        "duration": 49,
+        "name": "Chapter 2",
+        "plot": "Francis and Doug plan to frame Secretary of State nominee",
+        "released": "2013-02-01",
+        "created": "2021-11-28T15:02:13.815Z",
+        "season": 1,
+        "number": 2,
+        "rating": null,
+        "title": 15,
+        "characters": [
+            78, 79
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 20,
+    "fields": {
+        "duration": 49,
+        "name": "Pilot",
+        "plot": "Chemistry teacher cooks crystal meth",
+        "released": "2008-01-20",
+        "created": "2021-11-28T22:02:13.815Z",
+        "season": 1,
+        "number": 1,
+        "rating": null,
+        "title": 16,
+        "characters": [
+            80, 81
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 21,
+    "fields": {
+        "duration": 49,
+        "name": "Cat's in the Bag...",
+        "plot": "Drug deals go terribly wrong",
+        "released": "2008-01-27",
+        "created": "2021-11-28T22:02:13.815Z",
+        "season": 1,
+        "number": 2,
+        "rating": null,
+        "title": 16,
+        "characters": [
+            80, 81
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 22,
+    "fields": {
+        "duration": 49,
+        "name": "The Long Bright Dark",
+        "plot": "Former detective partners recap one of their first cases",
+        "released": "2014-01-12",
+        "created": "2021-11-28T23:02:13.815Z",
+        "season": 1,
+        "number": 1,
+        "rating": null,
+        "title": 17,
+        "characters": [
+            82, 83
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 23,
+    "fields": {
+        "duration": 52,
+        "name": "Seeing Things",
+        "plot": "Cohle and Hart trying to track down leads to their case",
+        "released": "2014-01-19",
+        "created": "2021-11-28T22:02:13.815Z",
+        "season": 1,
+        "number": 2,
+        "rating": null,
+        "title": 17,
+        "characters": [
+            82, 83
+        ]
+    }
+},
+    {
+    "model": "movie_service.episode",
+    "pk": 24,
+    "fields": {
+        "duration": 52,
+        "name": "eps1.0_hellofriend.mov",
+        "plot": "Elliot takes interest in cyber-security",
+        "released": "2016-08-19",
+        "created": "2021-11-28T22:02:13.815Z",
+        "season": 1,
+        "number": 1,
+        "rating": null,
+        "title": 18,
+        "characters": [
+            84, 85
+        ]
+    }
+}
+]

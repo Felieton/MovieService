@@ -1,0 +1,138 @@
+[
+{
+    "model": "movie_service.country",
+    "pk": 1,
+    "fields": {
+        "name": "United States",
+        "short_name": "USA"
+    }
+},
+{
+    "model": "movie_service.country",
+    "pk": 2,
+    "fields": {
+        "name": "Germany",
+        "short_name": "GER"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 3,
+    "fields": {
+        "name": "United Kingdom",
+        "short_name": "UK"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 4,
+    "fields": {
+        "name": "Denmark",
+        "short_name": "DK"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 5,
+    "fields": {
+        "name": "France",
+        "short_name": "FRA"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 6,
+    "fields": {
+        "name": "Poland",
+        "short_name": "POL"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 7,
+    "fields": {
+        "name": "Canada",
+        "short_name": "CAN"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 8,
+    "fields": {
+        "name": "Guatemala",
+        "short_name": "GUA"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 9,
+    "fields": {
+        "name": "Iran",
+        "short_name": "IRN"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 10,
+    "fields": {
+        "name": "Cuba",
+        "short_name": "CUB"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 11,
+    "fields": {
+        "name": "Australia",
+        "short_name": "AUS"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 12,
+    "fields": {
+        "name": "Hungary",
+        "short_name": "HUN"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 13,
+    "fields": {
+        "name": "Iceland",
+        "short_name": "ISL"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 14,
+    "fields": {
+        "name": "New Zealand",
+        "short_name": "NZL"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 15,
+    "fields": {
+        "name": "Puerto Rico",
+        "short_name": "PRI"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 16,
+    "fields": {
+        "name": "Ireland",
+        "short_name": "IRL"
+    }
+},
+    {
+    "model": "movie_service.country",
+    "pk": 17,
+    "fields": {
+        "name": "Sweden",
+        "short_name": "SWE"
+    }
+}
+]

@@ -1,0 +1,310 @@
+{% load account %}
+{% load i18n %}
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <title></title>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet" type="text/css"/>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: inherit !important;
+        }
+
+        #MessageViewBody a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        p {
+            line-height: inherit
+        }
+
+        @media (max-width: 700px) {
+            .icons-inner {
+                text-align: center;
+            }
+
+            .icons-inner td {
+                margin: 0 auto;
+            }
+
+            .row-content {
+                width: 100% !important;
+            }
+
+            .stack .column {
+                width: 100%;
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body style="background-color: #5f6571; margin: 0; padding: 0; -webkit-text-size-adjust: none; text-size-adjust: none;">
+{% block content %}
+    {% autoescape off %}
+        {% user_display user as user_display %}
+        {% blocktrans with site_name=current_site.name site_domain=current_site.domain %}
+            <table border="0" cellpadding="0" cellspacing="0" class="nl-container" role="presentation"
+                   style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #5f6571;" width="100%">
+                <tbody>
+                <tr>
+                    <td>
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-1"
+                               role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+                            <tbody>
+                            <tr>
+                                <td>
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                           class="row-content stack" role="presentation"
+                                           style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #26282c; color: #000000;"
+                                           width="680">
+                                        <tbody>
+                                        <tr>
+                                            <td class="column"
+                                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 0px; padding-bottom: 0px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;"
+                                                width="100%">
+                                                <table border="0" cellpadding="0" cellspacing="0" class="text_block"
+                                                       role="presentation"
+                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;"
+                                                       width="100%">
+                                                    <tr>
+                                                        <td style="padding-bottom:50px;padding-left:10px;padding-right:10px;padding-top:95px;">
+                                                            <div style="font-family: sans-serif">
+                                                                <div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #ffc600; line-height: 1.2; font-family: Merriwheater, Georgia, serif;">
+                                                                    <p style="margin: 0; font-size: 14px; text-align: center;">
+                                                                        <span style="font-size:20px;">Hi, {{ user_display }}!</span>
+                                                                    </p>
+                                                                    <p style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 14.399999999999999px;">
+                                                                         </p>
+                                                                    <p style="margin: 0; font-size: 14px; text-align: center;">
+                                                                        <span style="font-size:20px;">Thank you for signing up to the Movie Service</span>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-2"
+                               role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+                            <tbody>
+                            <tr>
+                                <td>
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                           class="row-content stack" role="presentation"
+                                           style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #3e434d; color: #000000;"
+                                           width="680">
+                                        <tbody>
+                                        <tr>
+                                            <td class="column"
+                                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; border-left: 0px solid #26282C; border-right: 0px solid #26282C; padding-top: 0px; padding-bottom: 0px; border-top: 0px; border-bottom: 0px;"
+                                                width="100%">
+                                                <table border="0" cellpadding="5" cellspacing="0" class="divider_block"
+                                                       role="presentation"
+                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;"
+                                                       width="100%">
+                                                    <tr>
+                                                        <td>
+                                                            <div align="center">
+                                                                <table border="0" cellpadding="0" cellspacing="0"
+                                                                       role="presentation"
+                                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;"
+                                                                       width="100%">
+                                                                    <tr>
+                                                                        <td class="divider_inner"
+                                                                            style="font-size: 1px; line-height: 1px; border-top: 2px solid #5F6571;">
+                                                                            <span> </span></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-3"
+                               role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+                            <tbody>
+                            <tr>
+                                <td>
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                           class="row-content stack" role="presentation"
+                                           style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #26282c; color: #000000;"
+                                           width="680">
+                                        <tbody>
+                                        <tr>
+                                            <td class="column"
+                                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 0px; padding-bottom: 0px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;"
+                                                width="100%">
+                                                <table border="0" cellpadding="0" cellspacing="0" class="text_block"
+                                                       role="presentation"
+                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;"
+                                                       width="100%">
+                                                    <tr>
+                                                        <td style="padding-bottom:15px;padding-left:30px;padding-right:30px;padding-top:25px;">
+                                                            <div style="font-family: sans-serif">
+                                                                <div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Merriwheater, Georgia, serif;">
+                                                                    <p style="margin: 0; font-size: 14px; text-align: center;">
+                                                                        <span data-darkreader-inline-color=""
+                                                                              style="--darkreader-inline-color:#bdb7af;color:#c2bcb4;">In order to complete your registration please click the button below.</span>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table border="0" cellpadding="10" cellspacing="0" class="button_block"
+                                                       role="presentation"
+                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;"
+                                                       width="100%">
+                                                    <tr>
+                                                        <td>
+                                                            <div align="center">
+                                                                <a href="{{ activate_url }}"
+                                                                               style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#5f6571;border-radius:4px;width:auto;border-top:1px solid #5f6571;border-right:1px solid #5f6571;border-bottom:1px solid #5f6571;border-left:1px solid #5f6571;padding-top:5px;padding-bottom:5px;font-family:Merriwheater, Georgia, serif;text-align:center;mso-border-alt:none;word-break:keep-all;"
+                                                                               target="_blank"><span
+                                                                    style="padding-left:25px;padding-right:30px;font-size:16px;display:inline-block;letter-spacing:normal;"><span
+                                                                    style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;"><strong>Confirm email</strong></span></span></a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table border="0" cellpadding="0" cellspacing="0" class="text_block"
+                                                       role="presentation"
+                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;"
+                                                       width="100%">
+                                                    <tr>
+                                                        <td style="padding-bottom:15px;padding-left:30px;padding-right:30px;padding-top:25px;">
+                                                            <div style="font-family: sans-serif">
+                                                                <div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Merriwheater, Georgia, serif;">
+                                                                    <p style="margin: 0; font-size: 14px; text-align: center;">
+                                                                        <span data-darkreader-inline-color=""
+                                                                              style="color:#b6becf;">In case the above button does not work, use the following link:</span>
+                                                                    </p>
+                                                                    <p style="margin: 0; font-size: 14px; text-align: center;">
+                                                                        <span data-darkreader-inline-color=""
+                                                                              style="color:#b6becf;">{{ activate_url }}</span></p>
+                                                                </div>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table border="0" cellpadding="0" cellspacing="0" class="divider_block"
+                                                       role="presentation"
+                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;"
+                                                       width="100%">
+                                                    <tr>
+                                                        <td style="padding-bottom:5px;padding-left:5px;padding-right:5px;padding-top:45px;">
+                                                            <div align="center">
+                                                                <table border="0" cellpadding="0" cellspacing="0"
+                                                                       role="presentation"
+                                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;"
+                                                                       width="100%">
+                                                                    <tr>
+                                                                        <td class="divider_inner"
+                                                                            style="font-size: 1px; line-height: 1px; border-top: 2px solid #5F6571;">
+                                                                            <span> </span></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table border="0" cellpadding="0" cellspacing="0" class="text_block"
+                                                       role="presentation"
+                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;"
+                                                       width="100%">
+                                                    <tr>
+                                                        <td style="padding-bottom:65px;padding-left:5px;padding-right:5px;padding-top:5px;">
+                                                            <div style="font-family: sans-serif">
+                                                                <div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Merriwheater, Georgia, serif;">
+                                                                    <p style="margin: 0; font-size: 14px; text-align: center;">
+                                                                        <span data-darkreader-inline-color=""
+                                                                              style="color:#b6becf;">© 2021 Movie Service | All rights reserved.</span>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-4"
+                               role="presentation"
+                               style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-position: top center;"
+                               width="100%">
+                            <tbody>
+                            <tr>
+                                <td>
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                           class="row-content stack" role="presentation"
+                                           style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #231f20; color: #000000;"
+                                           width="680">
+                                        <tbody>
+                                        <tr>
+                                            <td class="column"
+                                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;"
+                                                width="100%">
+                                                <table border="0" cellpadding="0" cellspacing="0" class="html_block"
+                                                       role="presentation"
+                                                       style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;"
+                                                       width="100%">
+                                                    <tr>
+                                                        <td>
+                                                            <div align="center"
+                                                                 style="font-family:Merriwheater, Georgia, serif;">
+                                                                <div height="40"> </div>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        {% endblocktrans %}{% endautoescape %}{% endblock %}
+</body>
+</html>

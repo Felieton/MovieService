@@ -1,0 +1,72 @@
+[
+{
+    "model": "movie_service.lang",
+    "pk": 1,
+    "fields": {
+        "name": "English"
+    }
+},
+{
+    "model": "movie_service.lang",
+    "pk": 2,
+    "fields": {
+        "name": "Spanish"
+    }
+},
+    {
+    "model": "movie_service.lang",
+    "pk": 3,
+    "fields": {
+        "name": "French"
+    }
+},
+    {
+    "model": "movie_service.lang",
+    "pk": 4,
+    "fields": {
+        "name": "German"
+    }
+},
+    {
+    "model": "movie_service.lang",
+    "pk": 5,
+    "fields": {
+        "name": "Polish"
+    }
+},
+    {
+    "model": "movie_service.lang",
+    "pk": 6,
+    "fields": {
+        "name": "Korean"
+    }
+},
+    {
+    "model": "movie_service.lang",
+    "pk": 7,
+    "fields": {
+        "name": "Mandarin"
+    }
+},
+    {
+    "model": "movie_service.lang",
+    "pk": 8,
+    "fields": {
+        "name": "Japanese"
+    }
+},
+    {
+    "model": "movie_service.lang",
+    "pk": 9,
+    "fields": {
+        "name": "Italian"
+    }
+},
+    {
+    "model": "movie_service.lang",
+    "pk": 10,
+    "fields": {
+        "name": "Russian"
+    }
+}
+]
