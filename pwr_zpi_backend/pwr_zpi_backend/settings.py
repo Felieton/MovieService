@@ -185,9 +185,9 @@ OLD_PASSWORD_FIELD_ENABLED = True
 # EMAIL_BACKEND = 'django_smtp_ssl.SSLEmailBackend'
 
 EMAIL_USE_TLS = True
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'movieservice2021@gmail.com'
-EMAIL_HOST_PASSWORD = 'LetMeUseOauth!'
+EMAIL_HOST = os.getenv("EMAIL_HOST")
+EMAIL_HOST_USER = os.getenv("EMAIL_HOST_USER")
+EMAIL_HOST_PASSWORD = os.getenv("EMAIL_HOST_PASSWORD")
 EMAIL_PORT = 587
 
 CORS_ALLOW_ALL_ORIGINS = True
