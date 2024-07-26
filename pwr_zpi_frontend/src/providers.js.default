@@ -1,0 +1,11 @@
+
+const providers = {
+    google: {
+        url: '',
+        redirectUri: '',
+        clientId: '',
+        secret: '',
+    },
+}
+
+export default providers;
